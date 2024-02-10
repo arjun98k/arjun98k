@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arjun98k
-- 👀 I’m interested in web devloper
+- 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning  dotnet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arjunkandekar14@gmail.com
