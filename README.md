@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  devops and selenium automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arjunkandekar14@gmail.com
-- 😄 Pronouns: ... He
+- 😄 Pronouns: ... Arjun dev
 - ⚡ Fun fact: Write code that not only solves problems but inspires greatness.
 - In the world of software engineering, the best is yet to come, and it's waiting for you to create it
 
