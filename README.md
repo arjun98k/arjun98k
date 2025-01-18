@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjun98k
-- 👀 I’m interested in web security and Automation
-- 🌱 I’m currently learning  AIML and Web Dev
+- 👀 I’m interested in mobile app development android
+- 🌱 I’m currently learning  Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arjunkandekar14@gmail.com
 - 😄 Pronouns: ... Arjun dev
